@@ -16,8 +16,8 @@ namespace TestWebApp.Controllers
         static String _bucketName = " ";   // Bucket name to upload your files
 
         // Get the client key and client secret from https://developer.api.autodesk.com
-        static String _clientKey = " "; // Viewing Service client key
-        static String _secretKey = " "; // Viewing service client secret
+		static String _clientKey = "tBH1MGlYEd4GtKncUhmCz6AoIbGARp9W"; // Viewing Service client key
+		static String _secretKey = "Gv48RqjuRAbCwpR9"; // Viewing service client secret
 
         static String BASE_URL = "https://developer.api.autodesk.com";
 
